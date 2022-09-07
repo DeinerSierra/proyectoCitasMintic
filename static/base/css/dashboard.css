@@ -30,7 +30,13 @@ body {
     top: 5rem;
   }
 }
-
+.bglogin {
+  background-image: url("/static/base/img/doctores.png");
+  background-position: center;
+  /* background-size: cover */
+  background-size: 100% 100%;
+   
+}
 .sidebar-sticky {
   height: calc(100vh - 48px);
   overflow-x: hidden;
